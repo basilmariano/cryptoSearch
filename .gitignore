@@ -1,0 +1,17 @@
+.DS_Store
+Pods/
+DerivedData or type command to continue
+*.xcuserstate
+*.xcuserdata
+xcuserdata
+xcshareddata
+Pods
+xcuserdata/*
+
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## Build generated
+build/
+DerivedData/
